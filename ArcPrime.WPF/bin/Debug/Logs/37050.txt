@@ -1,0 +1,853 @@
+
+
+ =======MONTH 1====== 
+
+Command: Restart 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : NN
+ : DE
+ : DH
+ : NN
+ : NN
+ : OH
+ : DE
+Food Quantity : 35/200
+Waste : 9/100
+Social Capital : 75/100
+Production : 100/200
+Food Capacity : 41/200
+Arcology Integrity : 30/200
+Population : 32/200
+Population Capacity : 42/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+SimulationStarted
+
+ =======MONTH 2====== 
+
+Command: ExpandFoodCapacity 200
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DH
+ : DH
+ : DH
+ : NN
+ : NN
+ : DH
+ : NN
+Food Quantity : 27,3/200
+Waste : 12,75/100
+Social Capital : 75/100
+Production : 75/200
+Food Capacity : 200/200
+Arcology Integrity : 30/200
+Population : 32/200
+Population Capacity : 42/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+FoodCapacityChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 3====== 
+
+Command: ImportFood 170
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : DH
+ : NN
+ : NN
+ : DH
+ : NN
+Food Quantity : 187,73/200
+Waste : 16,5/100
+Social Capital : 76/100
+Production : 75/200
+Food Capacity : 200/200
+Arcology Integrity : 30/200
+Population : 32/200
+Population Capacity : 42/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+FoodQuantityChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 4====== 
+
+Command: BuildArcology 120
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : NN
+ : NN
+ : DH
+ : NN
+Food Quantity : 176,28/200
+Waste : 18,5/100
+Social Capital : 76/100
+Production : 40/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 32/200
+Population Capacity : 42/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+ArcologyIntegrityChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 5====== 
+
+Command: ExpandPopulationCapacity 108
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : NN
+ : NN
+ : DH
+ : NN
+Food Quantity : 163,83/200
+Waste : 19,25/100
+Social Capital : 76/100
+Production : 15/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 32/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+PopulationCapacityChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 6====== 
+
+Command: Weareready 40
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : NN
+ : NN
+ : DE
+ : NN
+Food Quantity : 137/200
+Waste : 20/100
+Social Capital : 50/100
+Production : 15/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 72/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+PopulationChanged
+SocialCapitalChanged
+FoodQuantityChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 7====== 
+
+Command: Propaganda 200
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : NN
+ : NN
+ : DH
+ : NN
+Food Quantity : 98,8/200
+Waste : 20/100
+Social Capital : 73/100
+Production : 0/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 82/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+PopulationChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 8====== 
+
+Command: Produce 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DH
+ : DE
+ : OH
+ : NN
+ : NN
+ : DE
+ : NN
+Food Quantity : 76,85/200
+Waste : 31,25/100
+Social Capital : 68/100
+Production : 75,03/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 82/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+WasteChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 9====== 
+
+Command: Produce 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DE
+ : NN
+ : OH
+ : NN
+ : DH
+ : DE
+ : NN
+Food Quantity : 45,67/200
+Waste : 53,31/100
+Social Capital : 63/100
+Production : 147,01/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 82/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 0
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+WasteChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 10====== 
+
+Command: Clean 60
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : NN
+ : DH
+ : OH
+ : NN
+ : DE
+ : DH
+ : NN
+Food Quantity : 37,47/200
+Waste : 5,85/100
+Social Capital : 76/100
+Production : 117,01/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 82/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 100
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+WasteChanged
+CleanArcology
+SocialCapitalChanged
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 11====== 
+
+Command: ImportFood 160
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : NN
+ : DE
+ : DH
+ : NN
+Food Quantity : 186,35/200
+Waste : 11,7/100
+Social Capital : 77/100
+Production : 117,01/200
+Food Capacity : 200/200
+Arcology Integrity : 150/200
+Population : 82/200
+Population Capacity : 150/200
+Is Terminated : False
+Event Score : 100
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+FoodQuantityChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 12====== 
+
+Command: Propaganda 200
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : DE
+ : NN
+ : OH
+ : NN
+Food Quantity : 151,3/200
+Waste : 17,55/100
+Social Capital : 100/100
+Production : 117,01/200
+Food Capacity : 200/200
+Arcology Integrity : 160/200
+Population : 92/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 200
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+SocialCapitalChanged
+SuperMotivated
+FoodCapacityChanged
+PopulationCapacityChanged
+ArcologyIntegrityChanged
+PopulationChanged
+ProductionChanged
+FoodQuantityChanged
+PopulationChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 13====== 
+
+Command: Produce 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : NN
+ : OH
+ : DE
+ : DE
+ : OH
+ : NN
+Food Quantity : 122,52/200
+Waste : 49,15/100
+Social Capital : 95/100
+Production : 200/200
+Food Capacity : 200/200
+Arcology Integrity : 160/200
+Population : 92/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 200
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+WasteChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 14====== 
+
+Command: Clean 60
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : DE
+ : DH
+ : OH
+ : NN
+Food Quantity : 113,32/200
+Waste : 8,5/100
+Social Capital : 98/100
+Production : 170/200
+Food Capacity : 200/200
+Arcology Integrity : 160/200
+Population : 92/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 200
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+WasteChanged
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 15====== 
+
+Command: BuildArcology 40
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : OH
+ : NN
+ : OH
+ : NN
+Food Quantity : 99,87/200
+Waste : 15,25/100
+Social Capital : 98/100
+Production : 135/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 92/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 450
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+ArcologyIntegrityChanged
+FoodQuantityChanged
+WasteChanged
+SurvivedTheEarthquake
+
+
+ =======MONTH 16====== 
+
+Command: Weareready 40
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : NN
+ : DE
+ : OH
+ : OH
+ : NN
+ : DE
+ : DH
+Food Quantity : 69,04/200
+Waste : 22/100
+Social Capital : 58/100
+Production : 135/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 132/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 450
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+PopulationChanged
+SocialCapitalChanged
+FoodQuantityChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 17====== 
+
+Command: Propaganda 200
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : NN
+ : DE
+ : OH
+ : OH
+ : NN
+ : OH
+ : DH
+Food Quantity : 23,84/200
+Waste : 27,75/100
+Social Capital : 91/100
+Production : 115/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 142/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+SocialCapitalChanged
+BestLeaderEver
+ProductionChanged
+FoodQuantityChanged
+PopulationChanged
+GloryForTheLeader
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 18====== 
+
+Command: ImportFood 170
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DE
+ : OH
+ : OH
+ : NN
+ : OH
+ : DH
+Food Quantity : 165,77/200
+Waste : 33,5/100
+Social Capital : 92/100
+Production : 115/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 142/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+FoodQuantityChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 19====== 
+
+Command: Produce 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DH
+ : NN
+ : OH
+ : OH
+ : OH
+ : OH
+ : DH
+Food Quantity : 122,61/200
+Waste : 67,92/100
+Social Capital : 87/100
+Production : 200/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 142/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+WasteChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 20====== 
+
+Command: Clean 80
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DE
+ : DH
+ : OH
+ : OH
+ : DE
+ : OH
+ : DH
+Food Quantity : 108,41/200
+Waste : 8/100
+Social Capital : 90/100
+Production : 160/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 142/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+WasteChanged
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 21====== 
+
+Command: Propaganda 50
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : NN
+ : DH
+ : OH
+ : OH
+ : NN
+ : OH
+ : DH
+Food Quantity : 84,96/200
+Waste : 15,75/100
+Social Capital : 100/100
+Production : 155/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 144,5/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+PopulationChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 22====== 
+
+Command: ImportFood 110
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DE
+ : OH
+ : OH
+ : NN
+ : OH
+ : DH
+Food Quantity : 172,63/200
+Waste : 23,5/100
+Social Capital : 100/100
+Production : 155/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 144,5/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+FoodQuantityChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 23====== 
+
+Command: Clean 20
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : OH
+ : DH
+ : OH
+ : OH
+ : NN
+ : OH
+ : DH
+Food Quantity : 156,43/200
+Waste : 10,75/100
+Social Capital : 100/100
+Production : 145/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 144,5/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+WasteChanged
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 24====== 
+
+Command: Produce 1
+
+ ===================
+ShouldIRestartExperimentAndCry : Not yet, but be aware
+Neho Runes : DE
+ : NN
+ : OH
+ : OH
+ : OH
+ : OH
+ : DH
+Food Quantity : 122,44/200
+Waste : 49,09/100
+Social Capital : 95/100
+Production : 200/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 144,5/200
+Population Capacity : 160/200
+Is Terminated : False
+Event Score : 1050
+Experiment Score : 0
+Total Score : 0
+
+=====EVENTS======
+ProductionChanged
+WasteChanged
+SocialCapitalChanged
+FoodQuantityChanged
+WasteChanged
+
+
+ =======MONTH 25====== 
+
+Command: Clean 50
+
+ ===================
+ShouldIRestartExperimentAndCry : Yes, indeed
+Neho Runes : DE
+ : DH
+ : OH
+ : OH
+ : DE
+ : OH
+ : DH
+Food Quantity : 107,99/200
+Waste : 8,75/100
+Social Capital : 98/100
+Production : 175/200
+Food Capacity : 200/200
+Arcology Integrity : 200/200
+Population : 144,5/200
+Population Capacity : 160/200
+Is Terminated : True
+Event Score : 19050
+Experiment Score : 18000
+Total Score : 37050
+
+=====EVENTS======
+WasteChanged
+SocialCapitalChanged
+ProductionChanged
+FoodQuantityChanged
+WasteChanged
+EndOfSimulation
